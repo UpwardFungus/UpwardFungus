@@ -1,7 +1,4 @@
-### Started coding a couple of months ago using the language c# on Microsoft visual studio. 
-Looking to improve on projects, I will gladly accept criticism.
-I am currently working on a video game as my final school project, Unity is being used.
-
+gameing is life
 <!--
 **UpwardFungus/UpwardFungus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
